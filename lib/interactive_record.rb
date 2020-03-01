@@ -7,6 +7,6 @@ class InteractiveRecord
     self.to_s.downcase.pluralize
   end
   
-  def
+  
   
 end
